@@ -28,10 +28,10 @@ $students = query("SELECT * FROM iusers");
 	<body>
 		<table border="1px" cellpadding="10" cellspacing="0">
 	 		<tr>
-	 			<td bgcolor="#D6D8DC" align="center">Id</td>
-	 			<td bgcolor="#D6D8DC" align="center">Username</td>
-	 			<td bgcolor="#D6D8DC" align="center">Level</td>
-	 			<td bgcolor="#D6D8DC" align="center">Fullname</td>
+	 			<td bgcolor="#00e68a" align="center">Id</td>
+	 			<td bgcolor="#00e68a" align="center">Username</td>
+	 			<td bgcolor="#00e68a" align="center">Level</td>
+	 			<td bgcolor="#00e68a" align="center">Fullname</td>
 	 		</tr>
 	 		<?php foreach($students as $student) : ?>
 				 <tr>
