@@ -37,7 +37,7 @@ $students = query("SELECT * FROM iusers");
 				 	<td><?= $student["fullname"] ?></td>
 
 				 	<td>
-						<a  href="editt.php?Id=<?php echo $student['id'];?>">Edit</a> |
+						<a  href="edit.php?Id=<?php echo $student['id'];?>">Ubah</a> |
 						<a  href="del.php?Id=<?php echo $student['id']; ?>">Hapus</a>
 		  			</td>
 				 </tr>

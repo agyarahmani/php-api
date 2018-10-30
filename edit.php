@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="edit.css">
 </head>
 <body>
-<form name="" method="POST" action="editan.php" id="php-api"> 
+<form name="" method="POST" action="editan.php" id="input-form"> 
         <div>
           <h1>EDIT DATA</h1>
         </div>

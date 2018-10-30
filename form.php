@@ -9,9 +9,9 @@
   <link rel="stylesheet" type="text/css" href="edit.css">
 </head>
 <body>
-<form name="" method="POST" action="index.php" id="php-api"> 
+<form name="" method="POST" action="action.php" id="php-api"> 
         <div>
-          <h1> SIGN IN </h1>
+          <h1> FORMULIR </h1>
         </div>
         <div class="form">
           <label for="">Id</label><br>
